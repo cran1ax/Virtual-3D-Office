@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Preconnect to CDNs to improve performance -->
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+    <link rel="preconnect" href="https://cdn.agora.io" crossorigin>
+    <link rel="preconnect" href="https://download.agora.io" crossorigin>
+    
+    <title>Virtual 3D Office</title>
+    
+    <!-- Error handling for scripts -->
+    <script>
+      window.onerror = function(message, source, lineno, colno, error) {
+        console.error('Global error caught:', message, source, lineno, colno);
+        if (message && (message.includes('Agora') || message.includes('RTC'))) {
+          console.warn('Agora SDK error detected. This will be handled by our fallback system.');
+        }
+        // Don't prevent default handling
+        return false;
+      };
+      
+      window.addEventListener('error', function(e) {
+        if (e.target && e.target.nodeName === 'SCRIPT') {
+          console.error('Script loading error:', e.target.src);
+          // Mark script as failed so our loader can try alternate source
+          if (e.target.src && e.target.src.includes('agora')) {
+            console.warn('Agora script failed to load. Will try fallback.');
+            window._agoraScriptFailed = true;
+          }
+        }
+      }, true);
+      
+      // Track Agora SDK loading
+      window._agoraLoaded = false;
+      
+      // Check if Agora SDK loaded correctly
+      window.addEventListener('load', function() {
+        console.log('Voice call system initializing...');
+        setTimeout(function() {
+          if (window.AgoraRTC) {
+            console.log('Agora SDK loaded successfully, version:', window.AgoraRTC.VERSION);
+            window._agoraLoaded = true;
+          } else {
+            console.warn('Agora SDK not detected in window after page load');
+          }
+        }, 1000);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
