@@ -120,7 +120,7 @@ Using yarn:
 bash
 Copy code
 yarn test
-'''
+```
 
 ![Video Thumbnail](https://img.youtube.com/vi/73XOJlLhhZg/maxresdefault.jpg)
 
