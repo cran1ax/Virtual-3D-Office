@@ -1,15 +1,13 @@
-<p align="center">
 <h1 align="center">VIRTUAL-3D-OFFICE</h1>
-</p>
 
 <p align="center">
 Transforming Virtual Work into Immersive Reality
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/github/last-commit/cronlax/Virtual-3D-Office%3Fstyle%3Dfor-the-badge" alt="Last commit"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-85.2%2525-yellow%3Fstyle%3Dfor-the-badge" alt="JavaScript"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/github/languages/count/cronlax/Virtual-3D-Office%3Fstyle%3Dfor-the-badge" alt="Languages"/>
+  <img src="https://img.shields.io/github/last-commit/cronlax/Virtual-3D-Office?style=for-the-badge" alt="Last commit"/>
+  <img src="https://img.shields.io/badge/javascript-85.2%25-yellow?style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/github/languages/count/cronlax/Virtual-3D-Office?style=for-the-badge" alt="Languages"/>
 </p>
 
 <p align="center">
@@ -17,103 +15,110 @@ Built with the tools and technologies:
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/express.js-%2523404d59.svg%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/json-%2523000000.svg%3Fstyle%3Dfor-the-badge%26logo%3Djson%26logoColor%3Dwhite" alt="JSON"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/markdown-%2523000000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmarkdown%26logoColor%3Dwhite" alt="Markdown"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/socket.io-black%3Fstyle%3Dfor-the-badge%26logo%3Dsocket.io%26logoColor%3Dwhite" alt="Socket.io"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NPM-%2523CB3837.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnpm%26logoColor%3Dwhite" alt="NPM"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/autoprefixer-DD3735%3Fstyle%3Dfor-the-badge%26logo%3Dautoprefixer%26logoColor%3Dwhite" alt="Autoprefixer"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/postcss-%2523DD3A0A.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpostcss%26logoColor%3Dwhite" alt="PostCSS"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/.ENV-EEC900%3Fstyle%3Dfor-the-badge%26logo%3Ddotenv%26logoColor%3Dwhite" alt="ENV"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" alt="JavaScript"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/node.js-6DA55F%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" alt="React"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/yarn-%25232C8EBB.svg%3Fstyle%3Dfor-the-badge%26logo%3Dyarn%26logoColor%3Dwhite" alt="Yarn"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/lodash-%2523007acc.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlodash%26logoColor%3Dwhite" alt="Lodash"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/vite-%2523646CFF.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite" alt="Vite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/axios-2B475B%3Fstyle%3Dfor-the-badge%26logo%3Daxios%26logoColor%3Dwhite" alt="Axios"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+  <img src="https://img.shields.io/badge/autoprefixer-DD3735?style=for-the-badge&logo=autoprefixer&logoColor=white" alt="Autoprefixer"/>
+  <img src="https://img.shields.io/badge/postcss-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white" alt="PostCSS"/>
+  <img src="https://img.shields.io/badge/.ENV-EEC900?style=for-the-badge&logo=dotenv&logoColor=white" alt="ENV"/>
+  <img src="https://img.shields.io/badge/javascript-%23232330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
+  <img src="https://img.shields.io/badge/lodash-%23007acc.svg?style=for-the-badge&logo=lodash&logoColor=white" alt="Lodash"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/axios-2B475B?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
 </p>
 
-Table of Contents
-Overview
+---
 
-Getting Started
+## 📑 Table of Contents
+- [Overview](#overview)  
+- [Why Virtual-3D-Office?](#why-virtual-3d-office)  
+- [Getting Started](#getting-started)  
+- [Prerequisites](#prerequisites)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Testing](#testing)  
 
-Prerequisites
+---
 
-Installation
+## 📖 Overview
+**Virtual-3D-Office** is an all-in-one platform for building immersive, multi-user virtual workspaces that facilitate real-time collaboration and communication.  
 
-Usage
+Designed with **React, Vite, and Three.js**, it offers a rich, interactive environment where users can navigate, build, and interact seamlessly.
 
-Testing
+---
 
-Overview
-Virtual-3D-Office is an all-in-one platform for building immersive, multi-user virtual workspaces that facilitate real-time collaboration and communication. Designed with React, Vite, and Three.js, it offers a rich, interactive environment where users can navigate, build, and interact seamlessly.
+## 💡 Why Virtual-3D-Office?
+This project empowers developers to create dynamic virtual offices with integrated voice chat, task management, and collaborative tools.  
 
-Why Virtual-3D-Office?
-This project empowers developers to create dynamic virtual offices with integrated voice chat, task management, and collaborative tools. The core features include:
+Core features include:
+- 🟢 **3D Scene Rendering**: Build detailed, interactive environments with reusable components like avatars, skyscrapers, and monitors.  
+- 🎨 **Responsive UI & Styling**: Leverage Tailwind CSS and PostCSS for modern, consistent styling.  
+- 🔊 **Real-Time Voice & Communication**: Integrate Agora SDK for seamless voice calls.  
+- 🔄 **Multiplayer & State Sync**: WebSocket and Jotai atoms for synchronized multi-user interactions.  
+- ⚙️ **Flexible Environment Configuration**: Manage layouts and scene details for customized spaces.  
+- ⚡ **Efficient Workflow**: Vite setup with proxying + hot module replacement for rapid iteration.  
 
-🟢 3D Scene Rendering: Build detailed, interactive environments with reusable components like avatars, skyscrapers, and monitors.
+---
 
-🎨 Responsive UI & Styling: Leverage Tailwind CSS and PostCSS for modern, consistent styling across the application.
+## 🚀 Getting Started
 
-🔊 Real-Time Voice & Communication: Integrate Agora SDK for seamless voice calls within the virtual space.
+### ✅ Prerequisites
+- **Programming Language**: JavaScript  
+- **Package Manager**: npm or yarn  
 
-🔄 Multiplayer & State Sync: Use WebSocket and Jotai atoms for synchronized multi-user interactions.
+---
 
-⚙️ Flexible Environment Configuration: Manage spatial layouts and scene details for customized virtual spaces.
-
-⚡ Efficient Development Workflow: Vite setup with proxying and hot module replacement for rapid iteration.
-
-Getting Started
-Prerequisites
-This project requires the following dependencies:
-
-Programming Language: JavaScript
-
-Package Manager: Npm, Yarn
-
-Installation
-Build Virtual-3D-Office from the source and install dependencies.
-
+### ⚙️ Installation
 Clone the repository:
-
-git clone [https://github.com/cronlax/Virtual-3D-Office](https://github.com/cronlax/Virtual-3D-Office)
-
+```bash
+git clone https://github.com/cronlax/Virtual-3D-Office
 Navigate to the project directory:
 
+bash
+Copy code
 cd Virtual-3D-Office
-
-Install the dependencies:
+Install dependencies:
 
 Using npm:
 
+bash
+Copy code
 npm install
-
 Using yarn:
 
+bash
+Copy code
 yarn install
-
-Usage
+▶️ Usage
 Run the project with:
 
 Using npm:
 
+bash
+Copy code
 npm start
-
 Using yarn:
 
+bash
+Copy code
 yarn start
-
-Testing
-Virtual-3d-office uses the test framework test framework. Run the test suite with:
+🧪 Testing
+Virtual-3D-Office uses a test framework. Run the test suite with:
 
 Using npm:
 
+bash
+Copy code
 npm test
-
 Using yarn:
 
+bash
+Copy code
 yarn test
 
 ![Video Thumbnail](https://img.youtube.com/vi/73XOJlLhhZg/maxresdefault.jpg)
